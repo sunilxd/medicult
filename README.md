@@ -11,9 +11,7 @@ An ambulance tracker app. Developed to save people's life on time by using the g
 
 ## Working Demo
 
-### Patient side
-![](Demo/patient.gif)
-
-### Driver side
-![](Demo/driver.gif)
+### Patient side and Driver side
+<img style="float: left;" width=200 src="Demo/patient.gif">
+<img style="float: left;" width=200 src="Demo/driver.gif">
 
