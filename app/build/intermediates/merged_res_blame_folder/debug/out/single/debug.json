@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher_round.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher_round.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_customer_settings.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_customer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_driver_map.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_driver_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_pickup_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_pickup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-anydpi-v26_ic_pickup_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-anydpi-v26\\ic_pickup_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_foreground.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher_foreground.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_pickup_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_pickup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher_foreground.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher_foreground.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_history_single.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_history_single.xml"
+    },
+    {
+        "merged": "com.example.medicult.app-merged_res-20:/mipmap-hdpi_patient.png.flat",
+        "source": "com.example.medicult.app-main-22:/mipmap-hdpi/patient.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_customer_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_customer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_patient.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\patient.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_customer_signup.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_customer_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_round.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_round.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_amb.jpg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\amb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_grad_bg.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\grad_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_customer_map.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_customer_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_ic_add_alert_black_24dp.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\ic_add_alert_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_maps2.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_maps2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_pickup_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_pickup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher_round.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher_round.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_round.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher_round.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_driver_setting.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_driver_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_amb2.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\amb2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ambulance.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_driver_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_driver_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_ic_edit_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\ic_edit_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_foreground.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_foreground.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_welcome_.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_welcome_.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-anydpi-v26_ic_pickup.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-anydpi-v26\\ic_pickup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_pickup_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_pickup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_round.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher_round.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-mdpi_ic_launcher_foreground.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-mdpi\\ic_launcher_foreground.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_ic_local_hospital_black_24dp.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\ic_local_hospital_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxhdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_foreground.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xhdpi\\ic_launcher_foreground.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_pickup_round.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_pickup_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.jpeg.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\layout_activity_driver_signup.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\layout\\activity_driver_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-merged_res-20:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\7.3.3\\com.example.medicult.app-main-22:\\drawable\\ic_launcher_background.xml"
+    }
+]

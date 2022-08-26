@@ -1,7 +1,7 @@
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="sachdeva.saksham.medrescue.CustomerLoginActivity"
+    tools:context="com.example.medicult.CustomerLoginActivity"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -28,7 +28,7 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginTop="2dp"
                 android:layout_height="wrap_content"
-                android:background="#80ced6"
+                android:background="@drawable/grad_bg"
                 android:text="Logout" />
 
             <Button
@@ -39,7 +39,7 @@
                 android:layout_marginTop="2dp"
                 android:padding="1sp"
                 android:layout_height="wrap_content"
-                android:background="#80ced6"
+                android:background="@drawable/grad_bg"
                 android:text="history" />
 
             <Button
@@ -49,7 +49,7 @@
                 android:layout_marginTop="2dp"
                 android:padding="2dp"
                 android:layout_height="wrap_content"
-                android:background="#80ced6"
+                android:background="@drawable/grad_bg"
                 android:id="@+id/settings"
                 android:text="Profile"/>
         </LinearLayout>
@@ -125,7 +125,7 @@
             android:layout_gravity="bottom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#80ced6"
+            android:background="@drawable/grad_bg"
             android:text="Request An Ambulance"
             android:id="@+id/request"/>
     </LinearLayout>

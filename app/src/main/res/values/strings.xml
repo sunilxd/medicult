@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Med Rescue</string>
+    <string name="app_name">Medicult</string>
     <string name="title_activity_customer_login">Sign in</string>
 
     <!-- Strings related to login -->
