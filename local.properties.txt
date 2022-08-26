@@ -5,4 +5,4 @@
 # For customization when using a Version Control System, please read the
 # header note.
 #Wed Feb 13 16:42:43 IST 2019
-sdk.dir=C\:\\Users\\Rashmi\\AppData\\Local\\Android\\Sdk
+sdk.dir=C\:\\Users\\HP\\AppData\\Local\\Android\\Sdk
