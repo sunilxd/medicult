@@ -109,3 +109,4 @@ we still not yet completely merged the trigger fucntion into our app but we are 
 <img width=1000 src="Demo/flow.png">
 
 ### Click here for [Presentation pdf](presentation.pdf)
+### Click here for [APK](https://drive.google.com/file/d/1fbZcuRsb-Pa6cLOx-ckGMc2NeQEocY7T/view?usp=drivesdk)
