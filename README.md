@@ -71,7 +71,9 @@ while True:
 serialcomm.close()
 ```
 
-[![Blood pressure output](https://img.youtube.com/vi/j-MuaBVzJQo/0.jpg)](https://youtu.be/j-MuaBVzJQo)
+<figure class="video_container">
+  <iframe src="https://youtu.be/j-MuaBVzJQo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 we used google sheet api to store the status of the patient which can be easily accessed by mobile app through
 
