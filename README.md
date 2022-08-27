@@ -71,10 +71,7 @@ while True:
 serialcomm.close()
 ```
 
-
-<figure class="video_container">
-  <iframe src="https://youtu.be/j-MuaBVzJQo" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Blood pressure output](https://img.youtube.com/vi/j-MuaBVzJQo/0.jpg)](https://youtu.be/j-MuaBVzJQo)
 
 
 we used google sheet api to store the status of the patient which can be easily accessed by mobile app through
@@ -100,5 +97,15 @@ public class JsoupExample {
 }
 ```
 we still not yet completely merged the trigger fucntion into our app but we are confident that extra 5 hour of work is more than enough to complete it.
+### Screen Shot 
+<img width=200 src="ss/ss1.jpeg">
+<img width=200 src="ss/ss3.jpeg">
+<img width=200 src="ss/ss5.jpeg">
+<img width=200 src="ss/ss7.jpeg">
+<img width=200 src="ss/ss9.jpeg">
+<img width=200 src="ss/ss11.jpeg">
 
+### App Map
 <img width=1000 src="Demo/flow.png">
+
+### Click here for [Presentation pdf](presentation.pdf)
