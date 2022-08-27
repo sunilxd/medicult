@@ -15,7 +15,7 @@ An ambulance tracker app. Developed to save people's life on time by using the g
 <img width=400 src="Demo/patient.gif">
 
 #### Driver side
-<img width=600 src="Demo/driver.gif">
+<img width=400 src="Demo/driver.gif">
 
 ### Google map api error :warning:
 Since the original Google map api needs credit card details we used a duplicate api key which has some problem while redirecting to the Google maps while clicking "PICK PATIENT". We tried to fix it but the only solution we found in online is to buy the original api key.
@@ -23,7 +23,7 @@ Since the original Google map api needs credit card details we used a duplicate 
 ### Automatic Ambulance request based on heart rate
 Using the data from the Smart watch (in our case from arduino) to monitor the person heart rate. We stored the patient's heart rate for the past one minute and trigger a signal into the cloud if the patient's heart rate is abnormal for the past five minute.
 
-<img width=400 src="Demo/hardware.gif">
+<img width=600 src="Demo/hardware.gif">
 <br>
 
 #### Python code snippet for trigger
